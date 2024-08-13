@@ -1,0 +1,7 @@
+[2024-08-13 17:53:30] [ INFO ] [OdontologoH2Dao:41] [guardar] odontologo persistido Odontologo{id=3, numeroMatricula='1234', nombre='Valeria', apellido='Serna'}
+[2024-08-13 17:54:43] [ INFO ] [OdontologoH2Dao:41] [guardar] odontologo persistido Odontologo{id=3, numeroMatricula='122', nombre='pepe', apellido='perez'}
+[2024-08-13 17:54:43] [ INFO ] [OdontologoH2Dao:41] [guardar] odontologo persistido Odontologo{id=4, numeroMatricula='552', nombre='ana', apellido='fernandez'}
+[2024-08-13 17:57:33] [ INFO ] [OdontologoDaoEnMemoria:18] [guardar] odontologo guardado Odontologo{id=1, numeroMatricula='1234', nombre='Valeria', apellido='Serna'}
+[2024-08-13 17:57:51] [ INFO ] [OdontologoDaoEnMemoria:18] [guardar] odontologo guardado Odontologo{id=1, numeroMatricula='123', nombre='juan', apellido='quiroz'}
+[2024-08-13 17:57:51] [ INFO ] [OdontologoDaoEnMemoria:18] [guardar] odontologo guardado Odontologo{id=2, numeroMatricula='125', nombre='olga', apellido='alvarez'}
+[2024-08-13 17:57:51] [ INFO ] [OdontologoDaoEnMemoria:25] [buscarTodos] [Odontologo{id=1, numeroMatricula='123', nombre='juan', apellido='quiroz'}, Odontologo{id=2, numeroMatricula='125', nombre='olga', apellido='alvarez'}]
